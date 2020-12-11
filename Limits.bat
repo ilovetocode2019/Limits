@@ -1,0 +1,2 @@
+pythonw limits
+EXIT
